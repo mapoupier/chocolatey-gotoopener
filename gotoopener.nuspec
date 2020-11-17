@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>gotoopener</id>
+    <version>1.0.536</version>
+    <packageSourceUrl>https://github.com/SuperVirus/chocolatey-gotoopener</packageSourceUrl>
+    <owners>CHeitkamp</owners>
+    <title>GoTo Opener Multi-User (Install)</title>
+    <authors>LogMeIn, Inc.</authors>
+    <projectUrl>https://support.goto.com/meeting?articleID=1195891421</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/SuperVirus/chocolatey-gotoopener/2a75a5361e647e8a166bad2a7e28b3774de88bf6/icons/gotoopener.png</iconUrl>
+    <!-- <copyright>Year Software Vendor</copyright> -->
+    <licenseUrl>https://www.logmeininc.com/legal/terms-and-conditions</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <docsUrl>https://support.goto.com/meeting?articleID=1195891421</docsUrl>
+    <!--<bugTrackerUrl>https://github.com/SuperVirus/chocolatey-gotoopener/issues</bugTrackerUrl>-->
+    <tags>gotoopener goto meeting conference</tags>
+    <summary>GoTo Opener Multi-User installation- helper for GoToMeeting</summary>
+    <description>GoToMeeting uses the GoTo Opener app to help launch you into active sessions. For the large majority of users, the GoTo Opener app installs and launches itself automatically when users start or join an active session. However, many large companies restrict their users’ installation privileges to avoid inadvertent security breaches, meaning that employees aren’t able to install software on their own computers. In specific cases like this, an IT Administrator is responsible for pre-installing the appropriate software applications on each of their employee’s Windows computers as needed. IT Administrators can use this file to distribute our software to all of their employee's Windows computers.</description>
+    <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
