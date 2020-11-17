@@ -15,7 +15,7 @@
     <docsUrl>https://support.goto.com/meeting?articleID=1195891421</docsUrl>
     <!--<bugTrackerUrl>https://github.com/SuperVirus/chocolatey-gotoopener/issues</bugTrackerUrl>-->
     <tags>gotoopener goto meeting conference</tags>
-    <summary>GoTo Opener Multi-User installation- helper for GoToMeeting</summary>
+    <summary>GoTo Opener Multi-User installation - helper for GoToMeeting</summary>
     <description>GoToMeeting uses the GoTo Opener app to help launch you into active sessions. For the large majority of users, the GoTo Opener app installs and launches itself automatically when users start or join an active session. However, many large companies restrict their users’ installation privileges to avoid inadvertent security breaches, meaning that employees aren’t able to install software on their own computers. In specific cases like this, an IT Administrator is responsible for pre-installing the appropriate software applications on each of their employee’s Windows computers as needed. IT Administrators can use this file to distribute our software to all of their employee's Windows computers.</description>
     <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
   </metadata>
