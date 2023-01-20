@@ -2,17 +2,17 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>gotoopener</id>
-    <version>1.0.562</version>
+    <version>1.0.564</version>
     <packageSourceUrl>https://github.com/SuperVirus/chocolatey-gotoopener</packageSourceUrl>
     <owners>CHeitkamp</owners>
     <title>GoTo Opener Multi-User (Install)</title>
     <authors>LogMeIn, Inc.</authors>
-    <projectUrl>https://support.goto.com/meeting?articleID=1195891421</projectUrl>
+    <projectUrl>https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi</projectUrl>
     <iconUrl>https://rawcdn.githack.com/SuperVirus/chocolatey-gotoopener/2a75a5361e647e8a166bad2a7e28b3774de88bf6/icons/gotoopener.png</iconUrl>
     <!-- <copyright>Year Software Vendor</copyright> -->
     <licenseUrl>https://www.logmeininc.com/legal/terms-and-conditions</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <docsUrl>https://support.goto.com/meeting?articleID=1195891421</docsUrl>
+    <docsUrl>https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi</docsUrl>
     <!--<bugTrackerUrl>https://github.com/SuperVirus/chocolatey-gotoopener/issues</bugTrackerUrl>-->
     <tags>gotoopener goto meeting conference</tags>
     <summary>GoTo Opener Multi-User installation - helper for GoToMeeting</summary>

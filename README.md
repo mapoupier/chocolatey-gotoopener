@@ -2,7 +2,7 @@
 
 [Chocolatey](https://chocolatey.org/) package for GoToMeeting GoTo Opener helper.
 
-This multi-user MSI installer is posted [here](https://support.goto.com/meeting?articleID=1195891421).
+This multi-user MSI installer is posted [here](https://support.goto.com/meeting/help/what-is-the-multi-user-launcher-opener-msi).
 
 This package is published [here](https://chocolatey.org/packages/gotoopener).
 

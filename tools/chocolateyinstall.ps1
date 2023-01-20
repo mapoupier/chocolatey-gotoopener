@@ -1,8 +1,8 @@
 ﻿$ErrorActionPreference = 'Stop'; # stop on all errors
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
-$url        = 'https://meet.goto.com/openerbinaries/562/GoToOpenerMultiUser.msi'
-$checksum   = '6b1c9e6ab473909351c5dd3e650fb76743cfb0eac6daa8a99d404708fc90c7d7'
+$url        = 'https://meet.goto.com/openerbinaries/564/GoToOpenerMultiUser.msi'
+$checksum   = 'effde3b04f6b0b522f34c46f74efa86cca3d505aaca2d6e2bd7f9c365a0c252c'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
