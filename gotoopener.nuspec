@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>gotoopener</id>
-    <version>1.0.564</version>
+    <version>1.0.568</version>
     <packageSourceUrl>https://github.com/SuperVirus/chocolatey-gotoopener</packageSourceUrl>
     <owners>CHeitkamp</owners>
     <title>GoTo Opener Multi-User (Install)</title>
